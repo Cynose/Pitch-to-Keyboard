@@ -46,6 +46,14 @@ while True:
     #G3
     elif pitch > 194 and pitch <198:
         keyboard.press('d')
-    
+    #F3
+    elif pitch > 172 and pitch < 178:
+        keyboard.press('q')
+    #A3
+    elif pitch > 218 and pitch < 222:
+        keyboard.press('e')
+    #B2 
+    elif pitch > 121 and pitch < 125:
+        keyboard.press('tab')
     
   
